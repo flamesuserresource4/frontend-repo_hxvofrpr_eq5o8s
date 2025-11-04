@@ -3,7 +3,6 @@ import Navbar from './components/Navbar.jsx';
 import Hero from './components/Hero.jsx';
 import Features from './components/Features.jsx';
 import Showcase from './components/Showcase.jsx';
-import Footer from './components/Footer.jsx';
 
 function App() {
   return (
@@ -14,7 +13,6 @@ function App() {
         <Features />
         <Showcase />
       </main>
-      <Footer />
     </div>
   );
 }
